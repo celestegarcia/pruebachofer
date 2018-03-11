@@ -3,7 +3,7 @@ import { NavController } from 'ionic-angular';
 import { Inicio2Page } from '../inicio2/inicio2';
 import { Solicitud1Page } from '../solicitud1/solicitud1';
 import { Solicitud2Page } from '../solicitud2/solicitud2';
-import { InicioPage } from '../inicio/inicio';
+
 
 @Component({
   selector: 'page-inicio',
